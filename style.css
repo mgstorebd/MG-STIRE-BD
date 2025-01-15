@@ -137,3 +137,6 @@ a.button {
 a.button:hover {
     background: #e900ff;
 }
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
